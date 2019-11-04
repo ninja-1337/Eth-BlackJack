@@ -1,16 +1,17 @@
 Requirement Gathering:
 
 *Homepage- GUI
-	-Create account
+	- Create account
 		- Username
 		- password
 		- email
-	-Email authentication (maybe)
+	- Email authentication (maybe)
 	- Login/logout to account
 	- View available tables (+number of player curently playing)
-	- Wallet
+	- Wallet (en nashi?? entha eshi??)
 		- View wallet history
 		- Add to wallet
+		- Cash-out
 	- Join table
 
 
@@ -23,7 +24,7 @@ Requirement Gathering:
 	- User bet component on GUI
 	- User current balance
 	- View game rules (button that triggers panel or somethig)
-	- 
+	- View bet ifno (side-bets etc...)
 
 
 
