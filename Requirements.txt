@@ -1,0 +1,61 @@
+Requirement Gathering:
+
+*Homepage- GUI
+	-Create account
+		- Username
+		- password
+		- email
+	-Email authentication (maybe)
+	- Login/logout to account
+	- View available tables (+number of player curently playing)
+	- Wallet
+		- View wallet history
+		- Add to wallet
+	- Join table
+
+
+
+*Game GUI
+	- View dealers hand
+	- View available sits (if not view other players' hand)
+	- Select sit to play or add bet to other player(s)
+	- Bet time period
+	- User bet component on GUI
+	- User current balance
+	- View game rules (button that triggers panel or somethig)
+	- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
