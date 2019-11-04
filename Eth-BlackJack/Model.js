@@ -1,7 +1,6 @@
 import * as cards from "./cards";
 
 class Model {
-    stack = [];
     deck = new cards.Deck();
     constructor() {
         cards.init({table:'#card-table'});
@@ -9,12 +8,15 @@ class Model {
 
     }
     populateCardStack(){
-
         deck.addCards(cards.all);
         deck.render({immediate:true});
     }
 
     getCard() {
+
+    }
+
+    shuffleCards() {
 
     }
 
