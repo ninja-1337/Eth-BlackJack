@@ -6,16 +6,10 @@ class Controller {
         this.view = view;
 
         // Display initial todos
-        this.onTodoListChanged(this.model.todos)
     }
 
-    onTodoListChanged = todos => {
-        this.view.displayTodos(todos);
-    }
 
-    handleAddTodo = todoText => {
-        this.model.addTodo(todoText);
-    }
+
 
 
 

@@ -18,7 +18,7 @@
 <div id="gameCanvas"></div>
 <div id="footer">
     <button class="" type="button">Hit</button> <!--doke karta-->
-    <button class="" type="button">Stand</button> <!--paso-->
+    <button class="" id="Stand" type="button">Stand</button> <!--paso-->
     <button class="" type="button">Bet Min</button> <!--bet minimum amount-->
     <button class="" type="button">Bet Max</button> <!--bet maximum amount-->
     <button class="" type="button">Confirm Bet</button> <!--Confirm bet-->
@@ -29,11 +29,13 @@
 
 
 
-<script src="View.js"></script>
+
 <script src="Model.js"></script>
+<script src="View.js"></script>
 <script src="Controller.js"></script>
 <script>
 const app = new Controller(new Model(), new View())
+
 </script>
 
 
