@@ -11,10 +11,17 @@
 </head>
 
 <body>
-<div id="root"></div>
+<div id="header"></div>
+<div id="footer"></div>
+<div id="gameCanvas"></div>
 First Plain website
 <script src="View.js"></script>
 <script src="Model.js"></script>
 <script src="Controller.js"></script>
+<script>
+const app = new Controller(new Model(), new View())
+</script>
+
+
 </body>
 </html>
