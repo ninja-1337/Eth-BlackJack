@@ -14,8 +14,6 @@ Requirement Gathering:
 		- Cash-out
 	- Join table
 
-
-
 *Game GUI
 	- View dealers hand
 	- View available sits (if not view other players' hand)
