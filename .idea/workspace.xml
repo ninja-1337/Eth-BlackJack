@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b251d20-a9e1-4d0f-a869-70358cb8135b" name="Default Changelist" comment="" />
+    <list default="true" id="2b251d20-a9e1-4d0f-a869-70358cb8135b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eth-BlackJack/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eth-BlackJack/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Eth-BlackJack/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="442">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -22,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Eth-BlackJack/game.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -71,33 +74,6 @@
               <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Eth-BlackJack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eth-BlackJack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="Eth-BlackJack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-grid.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="Eth-BlackJack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="Eth-BlackJack" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-reboot.css" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572890686966</updated>
-      <workItem from="1572890688213" duration="2080000" />
+      <workItem from="1572890688213" duration="3448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2080000" />
+    <option name="totallyTimeSpent" value="3448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -178,6 +154,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'beta' of https://github.com/Elias-95/Eth-BlackJack into beta&#10;&#10;# Conflicts:&#10;#&#9;Eth-BlackJack/index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'beta' of https://github.com/Elias-95/Eth-BlackJack into beta&#10;&#10;# Conflicts:&#10;#&#9;Eth-BlackJack/index.html" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Eth-BlackJack/View.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -193,15 +173,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Eth-BlackJack/game.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Eth-BlackJack/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="442">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
