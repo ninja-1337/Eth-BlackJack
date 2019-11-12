@@ -1,13 +1,12 @@
-import * as cards from "./cards";
+//import * as cards from "./cards";
 
 class Model {
     deck = new cards.Deck();
     constructor() {
-        cards.init({table:'#card-table'});
-        // The state of the model
 
-    }
-    populateCardStack(){
+        }
+
+   function populateCardStack(){
         deck.addCards(cards.all);
         deck.render({immediate:true});
     }
